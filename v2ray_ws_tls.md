@@ -2,7 +2,7 @@
 
 ## install v2ray
 
-bash &lt;\(curl -L -s https://install.direct/go.sh\)
+bash &lt;\(curl -L -s https://install.direct/go.sh)
 
 ## Add streamSettings in v2ray configuration
 
